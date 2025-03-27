@@ -7,4 +7,5 @@ interface User {
   avatar: string;
   skills: string[];
   joinedDate: string;
+  friendIds: string[];
 } 
